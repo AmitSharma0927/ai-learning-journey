@@ -1,0 +1,80 @@
+# Week 1: Introduction to AI
+
+## 1. What is Artificial Intelligence?
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think, learn, solve problems, and make decisions. Instead of relying solely on explicit, fixed step-by-step code, AI systems analyze data, recognize patterns, and adapt to perform tasks that typically require human cognitive abilities.
+
+---
+
+## 2. History and Evolution of AI
+* **1950s — Birth of AI:** Alan Turing proposed the "Turing Test," and John McCarthy coined the term *Artificial Intelligence* at the Dartmouth Conference (1956).
+* **1960s–1980s — Early AI & AI Winters:** Symbolic AI and logic-based rule systems emerged, followed by periods of reduced funding ("AI Winters") due to hardware limits.
+* **1990s–2000s — Machine Learning Era:** Statistical methods gained popularity. IBM's Deep Blue defeated world chess champion Garry Kasparov in 1997.
+* **2010s — Deep Learning Breakthroughs:** Big data, GPU computing, and deep neural networks enabled massive leaps in image recognition, natural language processing, and games (e.g., AlphaGo in 2016).
+* **2020s–Present — Generative AI & LLMs:** Large Language Models (LLMs) like GPT-4 and multimodal AI systems transformed creative workflows, software development, and everyday productivity.
+
+---
+
+## 3. Traditional Programming vs. AI
+
+Traditional Programming: You write the logic. You give the computer the data and step-by-step logic. The computer just follows your code. (Data + Logic = Answer)
+AI (Machine Learning): The computer learns the logic. You give the computer examples and the correct answers, and it figures out the logic by itself. (Data + Answers = Logic)
+Simple Example:
+Traditional: You write a strict rule: "If a user enters a password under 8 characters, show an error."
+AI: You show the computer 10,000 photos of cats and dogs with labels, and it learns the rules of what a cat looks like on its own.
+
+---
+
+## 4. Artificial Intelligence vs. Machine Learning
+
+* **Artificial Intelligence (AI):** The overarching field of computer science aimed at creating smart machines capable of human-like intelligence.
+* **Machine Learning (ML):** A specific subset of AI focused on building algorithms that learn and improve from data automatically without being explicitly programmed.
+
+> **Analogy:** AI is the whole umbrella, while Machine Learning is a specific type within it.
+
+---
+
+## 5. Types of Machine Learning
+
+### A. Supervised Learning
+* **Concept:** The model is trained on **labeled data** (input and correct answer provided).
+* **Example:** Spam detection (emails tagged as "Spam" or "Not Spam").
+
+### B. Unsupervised Learning
+* **Concept:** The model works with **unlabeled data** to discover hidden patterns, groupings, or structures on its own.
+* **Example:** Customer segmentation in e-commerce based on purchasing behavior.
+
+### C. Reinforcement Learning
+* **Concept:** An agent learns by interacting with an environment through trial and error, receiving **rewards** for good actions and **penalties** for bad ones.
+* **Example:** Teaching AI to play chess or drive autonomous cars.
+
+---
+
+## 6. Deep Learning vs. Machine Learning
++-------------------------------------------------------+
+| Artificial Intelligence (AI)                          |
+|  +-------------------------------------------------+  |
+|  | Machine Learning (ML)                           |  |
+|  |   +------------------------------------------+  |  |
+|  |   | Deep Learning (DL)                       |  |  |
+|  |   | (Multi-layered Neural Networks)         |  |  |
+|  |   +------------------------------------------+  |  |
+|  +-------------------------------------------------+  |
++-------------------------------------------------------+
+
+
+* **Machine Learning:** Often requires manual feature engineering (humans defining key traits in data before feeding it to the model).
+* **Deep Learning:** Uses deep neural networks with many hidden layers to automatically extract features from raw, unstructured data (like images, video, and text).
+
+---
+
+## 7. Generative AI vs. Traditional AI
+
+* **Traditional (Predictive/Discriminative) AI:** Analyzes data to categorize, score, or forecast outcomes (e.g., predicting house prices, classifying images).
+* **Generative AI:** Creates brand-new content (text, images, code, audio, video) based on learned context (e.g., ChatGPT, Midjourney, GitHub Copilot).
+
+---
+
+## 8. Real-World Applications of AI
+1. **Healthcare:** Medical imaging analysis and drug discovery.
+2. **Finance:** Fraud detection and automated algorithmic trading.
+3. **Software Engineering:** AI code completion (Copilot) and bug detection.
